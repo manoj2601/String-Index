@@ -1,0 +1,12 @@
+insert Manoj
+insert Ayush
+stringsWithPrefix o1 Ay
+stringsWithSuffix o2 oj
+insert Ayush
+insert Manoj
+remove o1
+remove o2
+remove o1
+insert Ayush
+insert
+stringsWithPrefix o3
